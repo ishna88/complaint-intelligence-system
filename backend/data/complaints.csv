@@ -1,0 +1,41 @@
+complaint_id,complaint_text,category,priority,location,resolution
+101,Street light has been broken for three nights near the park,Electricity,Medium,Model Town,Technician dispatched to replace faulty bulb
+102,Water leakage on Main Street flooding the road,Water,High,Main Street,Maintenance team repaired the broken pipe
+103,Garbage has not been collected for a week,Waste,High,Johar Town,Sanitation truck rescheduled for daily pickup
+104,Large pothole causing accidents near the market,Roads,Critical,Canal Road,Road crew filled pothole within 24 hours
+105,Water pressure is slightly low in the mornings,Water,Low,Garden Town,Valve adjustment scheduled next week
+106,Transformer sparking near the residential block,Electricity,Critical,DHA Phase 3,Emergency crew shut down and replaced transformer
+107,Sewage overflow near the mosque,Waste,Critical,Satellite Town,Vacuum truck sent immediately to clear blockage
+108,Pipeline damaged near Main Street causing leakage,Water,Critical,Main Street,Pipeline section replaced same day
+109,Streetlights not working in entire block for a month,Electricity,High,Gulberg,Electrical team surveyed and repaired wiring
+110,Road cracks widening after monsoon rains,Roads,Medium,Township,Patch repair scheduled for next maintenance cycle
+111,No water supply for two days,Water,Critical,Iqbal Town,Tanker sent and main valve issue fixed
+112,Overflowing trash bins attracting stray animals,Waste,Medium,Faisal Town,Extra collection bin placed and pickup increased
+113,Broken manhole cover on main road,Roads,High,Allama Iqbal Town,Cover replaced within two days
+114,Power outage lasting six hours daily,Electricity,High,Wapda Town,Load shedding schedule adjusted after complaint review
+115,Illegal dumping of construction waste on street corner,Waste,Low,Cavalry Ground,Warning issued and waste removed by contractor
+116,Water tank contamination reported by residents,Water,Critical,Shadman,Tank cleaned and water tested by health department
+117,Damaged speed breaker causing vehicle damage,Roads,Medium,Model Town,New speed breaker installed
+118,Frequent voltage fluctuation damaging appliances,Electricity,Medium,Cantt,Voltage stabilizer installed at feeder point
+119,Blocked drain causing water to stagnate on street,Water,Medium,Green Town,Drain cleared by municipal team
+120,Streetlight pole leaning dangerously after storm,Electricity,High,Johar Town,Pole straightened and secured same week
+121,Stray dogs near garbage dump becoming aggressive,Other,Medium,Township,Animal control team notified and dispatched
+122,Noise complaint from construction site at night,Other,Low,DHA Phase 5,Warning notice sent to contractor
+123,Public park benches broken and unsafe,Other,Low,Model Town Park,Maintenance team scheduled for repair
+124,Water bill overcharge dispute,Other,Low,Garden Town,Billing department asked to review account
+125,Road flooding after heavy rain due to blocked drainage,Roads,Critical,Township,Emergency drainage team cleared blockage
+126,Garbage truck skipping street for two weeks,Waste,High,Faisal Town,Route supervisor informed and pickup resumed
+127,Exposed electrical wires near school entrance,Electricity,Critical,Model Town,Emergency repair crew insulated wires same day
+128,Water supply contaminated with visible dirt,Water,Critical,Iqbal Town,Pipeline flushed and water tested
+129,Multiple potholes on main avenue causing traffic jam,Roads,High,Canal Road,Road resurfacing scheduled
+130,Overflowing sewer near residential area,Waste,Critical,Satellite Town,Sewage team dispatched within hours
+131,Street light flickering constantly,Electricity,Low,Gulberg,Bulb and wiring checked and replaced
+132,Water leakage inside underground parking,Water,Medium,DHA Phase 3,Plumbing team inspected and sealed leak
+133,Broken footpath tiles causing pedestrian injuries,Roads,Medium,Shadman,Tiles replaced by municipal contractor
+134,Uncollected medical waste near clinic,Waste,Critical,Cantt,Specialized waste team dispatched immediately
+135,Illegal electricity connection reported in area,Electricity,Medium,Wapda Town,Inspection team sent to investigate
+136,No streetlights in newly developed housing scheme,Electricity,High,Green Town,Survey conducted for new pole installation
+137,Water tanker service delayed by several hours,Water,Low,Allama Iqbal Town,Dispatch schedule adjusted
+138,Damaged road divider after accident,Roads,Low,Cavalry Ground,Repair added to routine maintenance list
+139,Public toilet in market area unhygienic and broken,Other,Medium,Johar Town,Cleaning crew and repair team dispatched
+140,Stray cattle blocking main road,Other,Low,Township,Animal control coordinated with local authorities
